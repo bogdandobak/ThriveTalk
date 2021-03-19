@@ -20,3 +20,29 @@
     cursor: pointer;
   }
 }
+
+@mixin linkButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 150px;
+  
+  color: $regular-color;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: bold;
+
+  border-radius: 50px;
+  background-color: $leading-color;
+  border: none;
+
+  transition: background-color $buttons-transition , color $buttons-transition;
+  
+  &:hover {
+    color: $leading-color;
+    background-color: $regular-color;
+    border: 2px solid $leading-color;
+    cursor: pointer;
+  }
+}
