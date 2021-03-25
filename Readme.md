@@ -15,7 +15,7 @@ You can check this page here:
 
 ## Description
 
-Made this landing page using BEM methodology and made it persponsive by using SCSS(SASS) preprocessor.
+Made this landing page using BEM methodology and made it responsive by using SCSS(SASS) preprocessor.
 
 ## Local deployment
 
@@ -28,8 +28,8 @@ Made this landing page using BEM methodology and made it persponsive by using SC
 
 * Fork and clone this repository
 * Run `npm install` in your terminal
-* Run `npm start` to start local server
+* Run `npm start` to start a local server
 
 ## Troubleshooting
 
-Any advise for common problems or issues. For any contributing or problem solving you could find me [here](https://www.linkedin.com/in/bohdan-dobak-6a31a7198/)
+Any advice for common problems or issues. For any contributing or problem solving you could find me [here](https://www.linkedin.com/in/bohdan-dobak-6a31a7198/)
